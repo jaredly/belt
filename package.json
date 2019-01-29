@@ -1,0 +1,28 @@
+{
+  "name": "belt",
+  "version": "1.0.0",
+  "scripts": {
+  },
+  "keywords": [
+    "Reason",
+    "lsp",
+    "IDE"
+  ],
+  "repository": {
+    "url": "jaredly/belt",
+    "type": "git"
+  },
+  "description": "Bucklescript's Belt library packaged for native ocaml",
+  "author": "Jared Forsyth",
+  "license": "ISC",
+  "esy": {
+    "build": "dune build -p #{self.name}"
+  },
+  "dependencies": {
+    "@opam/dune": "*",
+    "@esy-ocaml/reason": "*",
+    "@opam/ocaml-migrate-parsetree": "*",
+    "@opam/ppx_tools_versioned": "*",
+    "ocaml": "~4.7.2"
+  }
+}

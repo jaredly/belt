@@ -1,0 +1,4 @@
+EXCLUDE_QUERY_DIR
+B /Users/jared/clone/libs/belt/_esy/default/store/b/belt-5f78bf7c/default/belt/.Belt.objs
+S .
+FLG -open Belt__ -w -40 -w -A

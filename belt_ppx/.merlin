@@ -1,0 +1,15 @@
+EXCLUDE_QUERY_DIR
+B /Users/jared/.esy/3___________________________________________________________________/i/ocaml-4.7.1003-bb69644a/lib/ocaml/compiler-libs
+B /Users/jared/.esy/3___________________________________________________________________/i/opam__s__ocaml_migrate_parsetree-opam__c__1.2.0-ed719499/lib/ocaml-migrate-parsetree
+B /Users/jared/.esy/3___________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.0-89733243/lib/ppx_derivers
+B /Users/jared/.esy/3___________________________________________________________________/i/opam__s__ppx__tools__versioned-opam__c__5.2.1-2f8d0995/lib/ppx_tools_versioned
+B /Users/jared/.esy/3___________________________________________________________________/i/opam__s__result-opam__c__1.3-9d61ae73/lib/result
+B /Users/jared/clone/libs/belt/_esy/default/store/b/belt-5f78bf7c/default/belt_ppx/.Belt_ppx.objs
+S /Users/jared/.esy/3___________________________________________________________________/i/ocaml-4.7.1003-bb69644a/lib/ocaml/compiler-libs
+S /Users/jared/.esy/3___________________________________________________________________/i/opam__s__ocaml_migrate_parsetree-opam__c__1.2.0-ed719499/lib/ocaml-migrate-parsetree
+S /Users/jared/.esy/3___________________________________________________________________/i/opam__s__ppx__derivers-opam__c__1.0-89733243/lib/ppx_derivers
+S /Users/jared/.esy/3___________________________________________________________________/i/opam__s__ppx__tools__versioned-opam__c__5.2.1-2f8d0995/lib/ppx_tools_versioned
+S /Users/jared/.esy/3___________________________________________________________________/i/opam__s__result-opam__c__1.3-9d61ae73/lib/result
+S .
+FLG -ppx '/Users/jared/clone/libs/belt/_esy/default/store/b/belt-5f78bf7c/default/.ppx/f52b9c300a7fa299ab9f00f5137c4093/ppx.exe --as-ppx --cookie '\''library-name="Belt_ppx"'\'''
+FLG -w -40 -w -9
